@@ -42,7 +42,7 @@ export default function Footer() {
                   href="mailto:hello@beancraft.com"
                   className="hover:text-white transition"
                 >
-                  asifkhadimalph@gmail.com
+                  asifkhadimalpha@gmail.com
                 </a>
               </div>
             </div>
