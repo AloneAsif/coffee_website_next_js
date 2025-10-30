@@ -176,7 +176,7 @@ export default function ContactPage() {
                 </div>
                 <h4 className="font-semibold text-brown-800 mb-2">Phone Support</h4>
                 <p className="text-gray-600 text-sm">Mon-Fri, 9am - 6pm</p>
-                <p className="text-amber-700 font-semibold">+92 300 1234567</p>
+                <p className="text-amber-700 font-semibold">+92 310 2648581</p>
               </div>
 
               <div className="bg-white rounded-xl shadow-lg p-6 border-l-4 border-orange-500">
@@ -187,7 +187,7 @@ export default function ContactPage() {
                 </div>
                 <h4 className="font-semibold text-brown-800 mb-2">Email Us</h4>
                 <p className="text-gray-600 text-sm">{`We’ll get back to you within a few hours`}</p>
-                <p className="text-orange-700 font-semibold">hello@coffeebeans.com</p>
+                <p className="text-orange-700 font-semibold">asifkhadimalpha@gmail.com</p>
               </div>
             </div>
 
